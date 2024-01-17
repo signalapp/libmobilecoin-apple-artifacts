@@ -32,8 +32,6 @@ typedef struct _McVerifier McVerifier;
 
 typedef struct _McTrustedIdentity McTrustedIdentity;
 
-//typedef struct _McTrustedIdentities McTrustedIdentities;
-
 typedef struct _McAdvisories McAdvisories;
 
 typedef struct _McAttestAke McAttestAke;
